@@ -1,5 +1,5 @@
-token= NTIwNTE0OTU2NDQyMjA2MjI5.Du5HKw.6UvBu6iouazOWi9yUJ04F5WKJfg
-owner= 418059479003824128
+token= NTI4NDM3NDgyMTUzNTc0NDIz.DwiRXg.y9eqKNVvSFaxa3FVN7CgB9NOLqQ
+owner= 474757495622074368
 prefix= d
 game= Vip:Dplay
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
