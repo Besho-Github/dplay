@@ -1,6 +1,6 @@
 token= NTI4NDM3NDgyMTUzNTc0NDIz.DwiRXg.y9eqKNVvSFaxa3FVN7CgB9NOLqQ
 owner= 474757495622074368
 prefix= NO
-game= Vip:Dplay
+game= Playing NOhelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
