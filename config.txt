@@ -1,6 +1,6 @@
-token= NTI4NDM3NDgyMTUzNTc0NDIz.DwiRXg.y9eqKNVvSFaxa3FVN7CgB9NOLqQ
-owner= 474757495622074368
-prefix= NO
-game= NOhelp
+token= NTIwNTE0OTU2NDQyMjA2MjI5.DwiTXg.G5Mw69fR-f7Gjhp7kRzwHavQrb0
+owner= 418059479003824128
+prefix= D
+game= vip:Dplay
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
