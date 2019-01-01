@@ -1,5 +1,5 @@
 token= NTI5MjIwNDQyMjgwNTU4NjAz.Dwtrkg.2Tn1o4Y0j0HSr6TfkEw6OuEsmC4
-owner= 418059479003824128
+owner= 529076415694635019
 prefix= D
 game= vip:Dplay
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
