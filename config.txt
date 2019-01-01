@@ -1,4 +1,4 @@
-token= NTI5MjIwNDQyMjgwNTU4NjAz.Dwtrkg.2Tn1o4Y0j0HSr6TfkEw6OuEsmC4
+token= NTI5MjIwNDQyMjgwNTU4NjAz.DwyWHA.zlqhSq0OLSPm9z6rpJmtxncnxpg
 owner= 529076415694635019
 prefix= D
 game= vip:Dplay
